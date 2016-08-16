@@ -2,4 +2,5 @@
 
 After cloning the project run:
 - npm install
-- gulp serve
+- bower install
+- gulp serve (localhost is at http://localhost:3000)
